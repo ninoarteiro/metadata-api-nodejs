@@ -1,37 +1,22 @@
 module.exports = {
   "1": {
-  "description": "xxxxx xxx xxx xxxx", 
-  "external_url": " http://ninoarteiro.art/", 
-  "image": "https://cz65qh477d3ex5ywdmfvhhlmgucc6kfh2jvluna4xq3wq6aifsea.arweave.net/Fn3YH5_49kv3FhsLU51sNQQvKKfSaro0HLw3aHgILIg", 
-  "name": "zzzzzzz",
-  "attributes": [ ... ], 
-},
+    "name": "Chunky Monkey",
+    "birthday": "10-18"
+  },
   "2": {
-  "description": "xxxxx xxx xxx xxxx", 
-  "external_url": " http://ninoarteiro.art/", 
-  "image": "https://cz65qh477d3ex5ywdmfvhhlmgucc6kfh2jvluna4xq3wq6aifsea.arweave.net/Fn3YH5_49kv3FhsLU51sNQQvKKfSaro0HLw3aHgILIg", 
-  "name": "zzzzzzz",
-  "attributes": [ ... ], 
-},
+    "name": "Flerp Derp",
+    "birthday": "01-08"
+  },
   "3": {
-  "description": "xxxxx xxx xxx xxxx", 
-  "external_url": " http://ninoarteiro.art/", 
-  "image": "https://cz65qh477d3ex5ywdmfvhhlmgucc6kfh2jvluna4xq3wq6aifsea.arweave.net/Fn3YH5_49kv3FhsLU51sNQQvKKfSaro0HLw3aHgILIg", 
-  "name": "zzzzzzz",
-  "attributes": [ ... ], 
-},
+    "name": "Buttle McFuddle",
+    "birthday": "01-22"
+  },
   "4": {
-  "description": "xxxxx xxx xxx xxxx", 
-  "external_url": " http://ninoarteiro.art/", 
-  "image": "https://cz65qh477d3ex5ywdmfvhhlmgucc6kfh2jvluna4xq3wq6aifsea.arweave.net/Fn3YH5_49kv3FhsLU51sNQQvKKfSaro0HLw3aHgILIg", 
-  "name": "zzzzzzz",
-  "attributes": [ ... ], 
-},
+    "name": "Quiero Pancakes",
+    "birthday": "03-04"
+  },
   "5": {
-  "description": "xxxxx xxx xxx xxxx", 
-  "external_url": " http://ninoarteiro.art/", 
-  "image": "https://cz65qh477d3ex5ywdmfvhhlmgucc6kfh2jvluna4xq3wq6aifsea.arweave.net/Fn3YH5_49kv3FhsLU51sNQQvKKfSaro0HLw3aHgILIg", 
-  "name": "zzzzzzz",
-  "attributes": [ ... ], 
-}
+    "name": "Guino the Penguin",
+    "birthday": "03-09"
+  }
 }
