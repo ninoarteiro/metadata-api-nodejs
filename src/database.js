@@ -2,7 +2,7 @@ module.exports = {
   "1": {
   "description": "Edition 1/1. Series: TRILOGY OF THE GOODBYE. This art represents the beginning of a new journey in my profession. I got tired of being censored. Artists no longer need intermediaries. All my cryptoarts from now on will be tokenized with my contract and sold only P2P through my own NFT store, which will be completely independent from art tokenization companies. Goodbye, intermediaries! #Cryptoart #NeoExpressionism #GlitchArt #Autonomy #Freedom #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://gateway.pinata.cloud/ipfs/QmZZmg2JcxTUvCazAwqJ3F6kpMaaGhZjtSyx7NPAwZ7P1W/ADEUS,%20INTERMEDI%C3%81RIOS%21.GIF", 
+  "image": "https://gateway.pinata.cloud/ipfs/QmSPeF1fFU4owtwTjU9zzmd9cj7bBeC3gG3DkadztgXoGr", 
   "name": "GOODBYE, INTERMEDIARIES!",
 },
   "2": {
@@ -14,13 +14,13 @@ module.exports = {
   "3": {
   "description": "Edition 1/1. Series: TRILOGY OF THE GOODBYE. The boss (the bourgeois) is a thief! #Cryptoart #GlitchArt #NeoExpressionism #Collage #Remix #Autonomy #Free! #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://gateway.pinata.cloud/ipfs/QmZBeDPikK7tdxgmmd8v53xUM37Qjvw3wmQZGWKhz8uFwA/ADEUS,%20PATR%C3%95ES%21.GIF", 
+  "image": "https://gateway.pinata.cloud/ipfs/QmRsnVMp786JnKZ4iwkzReN3e3i4dm1hQdPKvLjE5dCMA6", 
   "name": "GOODBYE, BOSSES!",
 },
   "4": {
   "description": "Edition 1/1. Series: TRILOGY OF THE GOODBYE. I discovered a hole in the system that allowed me to say goodbye to censorship. Two images taken from the internet were used to make this remix. #Cryptoart #GlitchArt #NeoExpressionism #Collage #Remix #Autonomy #FreedomOfCreation #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://gateway.pinata.cloud/ipfs/QmciH7LojidttezNvhakMkMWySt8rVkHcUddFYPfZKCcUy/ADEUS,%20CENSURA%21.GIF", 
+  "image": "https://gateway.pinata.cloud/ipfs/QmVShKQ941DsK44RJgA9WFjPXmGPehWALXRJuA8tV5tiT4", 
   "name": "GOODBYE, CENSORSHIP!",
 },
   "5": {
