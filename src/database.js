@@ -30,10 +30,10 @@ module.exports = {
   "name": "EXPRESSION 9",
 },
   "6": {
-  "description": "xxxxx", 
+  "description": "Edition 1/1. Courage is to act with the heart. It is necessary courage for the artist to follow the path of the autonomy. #Cryptoart #NeoExpressionism #Remix #Courage #Autonomy #Freedom #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "yyyyyyyy", 
-  "name": "zzzzzzz",
+  "image": "https://2cssyuovzcftk37d3sxvljgrqpxc6numsokyexjrgd7ymol7bmeq.arweave.net/0KUsUdXIizVv49yvVaTRg-4vNoyTlYJdMTD_hjl_Cwk", 
+  "name": "COURAGE!",
 },
   "7": {
   "description": "xxxxx", 
