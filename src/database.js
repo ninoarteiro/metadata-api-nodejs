@@ -36,10 +36,10 @@ module.exports = {
   "name": "COURAGE!",
 },
   "7": {
-  "description": "xxxxx", 
+  "description": "Edition 1/1. Series: ART IS NOT UNTOUCHABLE! This remix (a digital punk cubism) was created from the art that started the cubism: “Les Demoiselles d'Avignon” (by Pablo Picasso). #Cryptoart #NeoExpressionism #GlitchArt #DigitalPunkCubism #Remix #Picasso #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "yyyyyyyy", 
-  "name": "zzzzzzz",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSikSyxK4psLsXMSYG635XMkcYuvRtsnudzFN4gmTjfLC", 
+  "name": "LES DEMOISELLES DU CYBERSPACE",
 },
   "8": {
   "description": "xxxxx", 
