@@ -8,25 +8,25 @@ module.exports = {
   "2": {
   "description": "Edition 1/1. Series: EXPRESSIONS. #Cryptoart #NeoExpressionism #Expressions #Colors #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://gateway.pinata.cloud/ipfs/QmZc2uTHYZw4tLBApoLwKWTb57v45zeBr4Pssiup4b7Z1D/EXPRESS%C3%83O%2011.GIF", 
+  "image": "https://ipfs.io/ipfs/QmYcPw55wUjybrgMu6Ywk1maeeLr8WMF8zEf5qSySFEx5j?filename=EXPRESS%C3%83O%2011.GIF", 
   "name": "EXPRESSION 11",
 },
   "3": {
   "description": "Edition 1/1. Series: TRILOGY OF THE GOODBYE. The boss (the bourgeois) is a thief! #Cryptoart #GlitchArt #NeoExpressionism #Collage #Remix #Autonomy #Free! #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://gateway.pinata.cloud/ipfs/QmRsnVMp786JnKZ4iwkzReN3e3i4dm1hQdPKvLjE5dCMA6", 
+  "image": "https://ipfs.io/ipfs/QmRsnVMp786JnKZ4iwkzReN3e3i4dm1hQdPKvLjE5dCMA6?filename=ADEUS%2C%20PATR%C3%95ES!.GIF", 
   "name": "GOODBYE, BOSSES!",
 },
   "4": {
   "description": "Edition 1/1. Series: TRILOGY OF THE GOODBYE. I discovered a hole in the system that allowed me to say goodbye to censorship. Two images taken from the internet were used to make this remix. #Cryptoart #GlitchArt #NeoExpressionism #Collage #Remix #Autonomy #FreedomOfCreation #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://gateway.pinata.cloud/ipfs/QmVShKQ941DsK44RJgA9WFjPXmGPehWALXRJuA8tV5tiT4", 
+  "image": "https://ipfs.io/ipfs/QmVShKQ941DsK44RJgA9WFjPXmGPehWALXRJuA8tV5tiT4?filename=ADEUS%2C%20CENSURA!.GIF", 
   "name": "GOODBYE, CENSORSHIP!",
 },
   "5": {
   "description": "Edition 1/1. Series: EXPRESSIONS. #Cryptoart #NeoExpressionism #Expression #Colors #Remix #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://gateway.pinata.cloud/ipfs/QmRQ5ooAk93YZPM21szoWUpiy7Fsn4TNFHZToUE49NqFEf/EXPRESS%C3%83O%209.GIF", 
+  "image": "https://ipfs.io/ipfs/QmdJrBAsq87JDDvmSU38ArXDRhE8sNZdjWGpH1A7AfVwTN?filename=EXPRESS%C3%83O%209.GIF", 
   "name": "EXPRESSION 9",
 },
   "6": {
@@ -38,7 +38,7 @@ module.exports = {
   "7": {
   "description": "Edition 1/1. Series: ART IS NOT UNTOUCHABLE! This remix (a digital punk cubism) was created from the art that started the cubism: “Les Demoiselles d'Avignon” (by Pablo Picasso). #Cryptoart #NeoExpressionism #GlitchArt #DigitalPunkCubism #Remix #Picasso #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://gateway.pinata.cloud/ipfs/QmSikSyxK4psLsXMSYG635XMkcYuvRtsnudzFN4gmTjfLC", 
+  "image": "https://ipfs.io/ipfs/QmSikSyxK4psLsXMSYG635XMkcYuvRtsnudzFN4gmTjfLC?filename=AS%20SENHORITAS%20DO%20CIBERESPA%C3%87O.GIF", 
   "name": "LES DEMOISELLES DU CYBERSPACE",
 },
   "8": {
