@@ -42,10 +42,10 @@ module.exports = {
   "name": "LES DEMOISELLES DU CYBERSPACE",
 },
   "8": {
-  "description": "xxxxx", 
+  "description": "Edition 1/1. Series: ART IS NOT UNTOUCHABLE! This digital punk cubism was created from the logos of the three platforms that have already censored remixed arts: Super Rare, Open Sea and Rarible. I didn't ask permission! #Cryptoart #GlitchArt #NeoExpressionism #Collage #DigitalPunkCubism #Remix #WithoutPermission! #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "yyyyyyyyy", 
-  "name": "zzzzzzz",
+  "image": "https://3e3ydppjdmhtouewbwfelf3rzobvrus7r6iltcubiafdjpf5trjq.arweave.net/2TeBvekbDzdQlg2KRZdxy4NY0l-PkLmKgUAKNLy9nFM", 
+  "name": "UNAUTHORIZED ART",
 },
   "9": {
   "description": "xxxxx", 
