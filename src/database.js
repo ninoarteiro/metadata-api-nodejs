@@ -1,9 +1,9 @@
 module.exports = {
   "1": {
-  "description": "Edition 1/1. Series: TRILOGY OF THE GOODBYE. This art represents the beginning of a new journey in my profession. I got tired of being censored. Artists no longer need intermediaries. All my cryptoarts from now on will be tokenized with my contract and sold only P2P through my own NFT store, which will be completely independent from art tokenization companies. Goodbye, intermediaries! #Cryptoart #NeoExpressionism #GlitchArt #Autonomy #Freedom #P2P #NFT", 
+  "description": "This cryptoart is about autonomy, courage and freedom. It represents the total liberation of the cryptoartists in relation to the centralized hypercapitalist technology companies. Now I have my own contract and my own store. Perhaps this is the true representation of the totally decentralized art. Goodbye censorship! Goodbye intermediaries! Goodbye bosses! #NeoExpressionism #Liberation #Autonomy #Courage #Freedom", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://gateway.pinata.cloud/ipfs/QmSPeF1fFU4owtwTjU9zzmd9cj7bBeC3gG3DkadztgXoGr", 
-  "name": "GOODBYE, INTERMEDIARIES!",
+  "image": "https://geedfksdwjqyvtj7fjd3uu4kxdixflmajqinnv4lc5vvhkoaqcmq.arweave.net/MQgyqkOyYYrNPypHulOKuNFyrYBMENbXixdrU6nAgJk", 
+  "name": "LIBERATION!",
 },
   "2": {
   "description": "Edition 1/1. Series: EXPRESSIONS. #Cryptoart #NeoExpressionism #Expressions #Colors #NFT", 
