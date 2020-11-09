@@ -63,10 +63,10 @@ module.exports = {
   "name": "Funk do Satoshi",
 },
   "10": {
-  "description": "Teste", 
+  "description": "Series: BRASIL. Photograph taken by “Luz e Sombra” (Nino Arteiro in the photography) in the city of Paraty, state of Rio de Janeiro, during a beautiful psychedelic afternoon. #Photography #Animation #Psychedelia #Brasil #Paraty #Nature #Beauty #DeArt #P2P", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://gateway.pinata.cloud/ipfs/QmQFaQVizg16e7wpfv1M5km8BuwQDZc4PZnvSfrw21bpgJ",
+  "image": "https://77tf7y72zoonwlxdle7jqpz4n7mxncs52aqcanedzdf2ux253efa.arweave.net/_-Zf4_rLnNsu41k-mD88b9l2il3QICA0g8jLql9d2Qo",
   "animation_url": "",
-  "name": "Teste",
+  "name": "PSYCHEDELIC AFTERNOON IN THE BACKYARD",
 }
 }
