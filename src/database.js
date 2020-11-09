@@ -54,9 +54,9 @@ module.exports = {
   "name": "Funk do Satoshi",
 },
   "10": {
-  "description": "xxxxx", 
+  "description": "Teste", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "yyyyyyyyy", 
-  "name": "zzzzzzz",
+  "image": "https://mktlboi6ebrcaywhywyuhgagz5aw6kpxngh53qicni324o7fi6ua.arweave.net/YqawuR4gYiBix8WxQ5gGz0FvKfdpj93BAmo3rjvlR6g", 
+  "name": "Teste",
 }
 }
