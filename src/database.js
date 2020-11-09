@@ -48,10 +48,10 @@ module.exports = {
   "name": "UNAUTHORIZED ART",
 },
   "9": {
-  "description": "xxxxx", 
+  "description": "Funk do Satoshi", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "yyyyyyyyy", 
-  "name": "zzzzzzz",
+  "image": "https://7iilblxpojyp4fq4nkwu7blys7uxpfmezn7ypqmhsh5ygtkdokoa.arweave.net/-hCwru9ycP4WHGqtT4V4l-l3lYTLf4fBh5H7g01Dcpw", 
+  "name": "Funk do Satoshi",
 },
   "10": {
   "description": "xxxxx", 
