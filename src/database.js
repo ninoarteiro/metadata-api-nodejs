@@ -56,7 +56,7 @@ module.exports = {
   "10": {
   "description": "Teste", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://mktlboi6ebrcaywhywyuhgagz5aw6kpxngh53qicni324o7fi6ua.arweave.net/YqawuR4gYiBix8WxQ5gGz0FvKfdpj93BAmo3rjvlR6g", 
+  "audio": "https://gateway.pinata.cloud/ipfs/QmQFaQVizg16e7wpfv1M5km8BuwQDZc4PZnvSfrw21bpgJ", 
   "name": "Teste",
 }
 }
