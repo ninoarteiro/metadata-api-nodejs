@@ -57,7 +57,7 @@ module.exports = {
   "description": "Series: BRASIL. Photograph taken by “Luz e Sombra” (Nino Arteiro in the photography) in the city of Paraty, state of Rio de Janeiro, during a beautiful psychedelic afternoon. #Photography #Animation #Psychedelia #Brasil #Paraty #Nature #Beauty #DeArt #P2P", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
   "image": "https://77tf7y72zoonwlxdle7jqpz4n7mxncs52aqcanedzdf2ux253efa.arweave.net/_-Zf4_rLnNsu41k-mD88b9l2il3QICA0g8jLql9d2Qo",
-  "animation_url": "",
+  "animation_url": "https://7iilblxpojyp4fq4nkwu7blys7uxpfmezn7ypqmhsh5ygtkdokoa.arweave.net/-hCwru9ycP4WHGqtT4V4l-l3lYTLf4fBh5H7g01Dcpw",
   "name": "PSYCHEDELIC AFTERNOON IN THE BACKYARD",
 }
 }
