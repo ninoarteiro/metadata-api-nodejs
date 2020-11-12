@@ -51,7 +51,7 @@ module.exports = {
   "description": "Funk do Satoshi", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
   "image": "https://dahd5dsekdap3e5bsui2jxlfmsctzrlashhngn6jbj4swbdnnojq.arweave.net/GA4-jkRQwP2ToZURpN1lZIU8xWCRztM3yQp5KwRta5M",
-  "animation_url": "https://7iilblxpojyp4fq4nkwu7blys7uxpfmezn7ypqmhsh5ygtkdokoa.arweave.net/-hCwru9ycP4WHGqtT4V4l-l3lYTLf4fBh5H7g01Dcpw"
+  "animation_url": "https://7iilblxpojyp4fq4nkwu7blys7uxpfmezn7ypqmhsh5ygtkdokoa.arweave.net/-hCwru9ycP4WHGqtT4V4l-l3lYTLf4fBh5H7g01Dcpw",
   "name": "Funk do Satoshi",
 },
   "10": {
