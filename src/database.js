@@ -18,7 +18,7 @@ module.exports = {
   "name": "GOODBYE, BOSSES!",
 },
   "4": {
-  "description": "Edition 1/1. Series: TRILOGY OF THE GOODBYE. I discovered a hole in the system that allowed me to say goodbye to censorship. Two images taken from the internet were used to make this remix. #Cryptoart #GlitchArt #NeoExpressionism #Collage #Remix #Autonomy #FreedomOfCreation #P2P #NFT", 
+  "description": "Edition 1/1. Series: TRILOGY OF THE GOODBYE. I discovered a hole in the system that allowed me to say goodbye to censorship. Two images taken from the internet were used to make this remix. #DeArt #GlitchArt #NeoExpressionism #Collage #Remix #FreedomOfCreation #P2P", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
   "image": "https://2x5kxe4yom2fxto2lby6y46li5zjfd2kgxig47dn552k3ou5qm3a.arweave.net/1fqrk5hzNFvN2lhx7HPLR3KSj0o10G58be90rbqdgzY",
   "name": "GOODBYE, CENSORSHIP!",
