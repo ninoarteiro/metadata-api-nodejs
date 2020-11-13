@@ -6,7 +6,7 @@ module.exports = {
   "name": "LIBERATION!",
 },
   "2": {
-  "description": "Edition 1/1. Series: EXPRESSIONS. #Cryptoart #NeoExpressionism #Expressions #Colors #NFT", 
+  "description": "Edition 1/1. Series: EXPRESSIONS. #DeArt #NeoExpressionism #Expressions #Colors #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
   "image": "https://5qn65inygkcc3r23wedbvd5h2dold3izupsdo5jzqxmt4xc3lu6q.arweave.net/7BvuobgyhC3HW7EGGo-n0Nyx7Rmj5Dd1OYXZPlxbXT0",
   "name": "EXPRESSION 11",
