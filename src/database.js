@@ -1,8 +1,8 @@
 module.exports = {
   "1": {
-  "description": "This cryptoart is about autonomy, courage and freedom. It represents the total liberation of the cryptoartists in relation to the centralized hypercapitalist technology companies. Now I have my own contract and my own store. Perhaps this is the true representation of the totally decentralized art. Goodbye censorship! Goodbye intermediaries! Goodbye bosses! #NeoExpressionism #GlitchArt #Liberation #Autonomy #Courage #Freedom", 
+  "description": "This DeArt is about autonomy, courage and freedom. It represents the total liberation of the DeArtists in relation to the centralized hypercapitalist technology companies. Now I have my own contract and my own NFT store. Perhaps this is the true representation of the totally decentralized art. Goodbye censorship! Goodbye intermediaries! Goodbye bosses! #DeArt #GlitchArt #NeoExpressionism #Collage #Liberation #Autonomy #Courage #Freedom #DIY #P2P", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://u4kujpjn6dhvyzosdg77anmdub3fb674ldsze5r46ec4kwmaifbq.arweave.net/pxVEvS3wz1xl0hm_8DWDoHZQ-_xY5ZJ2PPEFxVmAQUM",
+  "image": "https://wuyltj4e2m4jt22i5niucymfo3vh27m6xugtmvj6dc2zr33ohvhq.arweave.net/tTC5p4TTOJnrSOtRQWGFdup9fZ69DTZVPhi1mO9uPU8",
   "name": "LIBERATION!",
 },
   "2": {
