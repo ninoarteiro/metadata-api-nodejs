@@ -36,25 +36,53 @@ module.exports = {
   "name": "COURAGE!",
 },
   "7": {
+  "description": "Edition 1/1. Series: BRASIL. Photograph taken by “Luz e Sombra” (Nino Arteiro in the photo) in the city of Paraty, state of Rio de Janeiro. #DeArt #Photography #VisualPoetry #Brasil #Paraty #Nature #Beauty #P2P #NFT", 
+  "external_url": "https://beta.cent.co/ninoarteiro", 
+  "image": "https://gw5jc7egijrc5die26wxibotfw7ngb6oylmmhjs45q626ymhkyca.arweave.net/NbqRfIZCYi6NBNetdAXTLb7TB87C2MOmXOw9r2GHVgQ",
+  "name": "FROM WINDOW OF THE MY BEDROOM",
+},
+  "8": {
+  "description": "", 
+  "external_url": "https://beta.cent.co/ninoarteiro", 
+  "image": "",
+  "name": "",
+},
+  "9": {
+  "description": "", 
+  "external_url": "https://beta.cent.co/ninoarteiro", 
+  "image": "",
+  "name": "",
+},
+  "10": {
+  "description": "", 
+  "external_url": "https://beta.cent.co/ninoarteiro", 
+  "image": "",
+  "name": "",
+},
+  
+  
+  
+  
+  "11": {
   "description": "Edition 1/1. Series: ART IS NOT UNTOUCHABLE! This remix (a digital punk cubism) was created from the art that started the cubism: “Les Demoiselles d'Avignon” (by Pablo Picasso). #Cryptoart #NeoExpressionism #GlitchArt #DigitalPunkCubism #Remix #Picasso #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
   "image": "https://bc2lnwncekrw6erdzftyxzrkdbkn2wp7mz5cx4skzrupmie3zpha.arweave.net/CLS22aIio28SI8lni-YqGFTdWf9meivySsxo9iCby84",
   "name": "LES DEMOISELLES DU CYBERSPACE",
 },
-  "8": {
+  "12": {
   "description": "Edition 1/1. Series: ART IS NOT UNTOUCHABLE! This digital punk cubism was created from the logos of the three platforms that have already censored remixed arts: Super Rare, Open Sea and Rarible. I didn't ask permission! #Cryptoart #GlitchArt #NeoExpressionism #Collage #DigitalPunkCubism #Remix #WithoutPermission! #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
   "image": "https://3e3ydppjdmhtouewbwfelf3rzobvrus7r6iltcubiafdjpf5trjq.arweave.net/2TeBvekbDzdQlg2KRZdxy4NY0l-PkLmKgUAKNLy9nFM",
   "name": "UNAUTHORIZED ART",
 },
-  "9": {
+  "13": {
   "description": "Funk do Satoshi", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
   "image": "https://dahd5dsekdap3e5bsui2jxlfmsctzrlashhngn6jbj4swbdnnojq.arweave.net/GA4-jkRQwP2ToZURpN1lZIU8xWCRztM3yQp5KwRta5M",
   "animation_url": "https://7iilblxpojyp4fq4nkwu7blys7uxpfmezn7ypqmhsh5ygtkdokoa.arweave.net/-hCwru9ycP4WHGqtT4V4l-l3lYTLf4fBh5H7g01Dcpw",
   "name": "Funk do Satoshi",
 },
-  "10": {
+  "14": {
   "description": "Series: BRASIL. Photograph taken by “Luz e Sombra” (Nino Arteiro in the photography) in the city of Paraty, state of Rio de Janeiro, during a beautiful psychedelic afternoon. #Photography #Animation #Psychedelia #Brasil #Paraty #Nature #Beauty #DeArt #P2P", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
   "image": "https://s4u4vltyyzyok6j7lwfe7hpp7ri3rlzbffnmv3gy5o7uz4gs7p3a.arweave.net/lynKrnjGcOV5P12KT53v_FG4ryEpWsrs2Ou_TPDS-_Y",
