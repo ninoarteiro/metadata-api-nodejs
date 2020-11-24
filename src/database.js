@@ -42,10 +42,10 @@ module.exports = {
   "name": "FROM WINDOW OF THE MY BEDROOM",
 },
   "8": {
-  "description": "", 
+  "description": "Edition: 1/1. Series: BRASIL. Photograph taken by “Luz e Sombra” (Nino Arteiro in the photography) in the city of Paraty, state of Rio de Janeiro, during a beautiful psychedelic afternoon. #DeArt #Photography #VisualPoetry #Psychedelia #Brasil #Paraty #Nature #Beauty #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "",
-  "name": "",
+  "image": "https://dbng7suk6fnk3n3clsq644oqzagzxaeoqj4fvlbgfomh7qhmveta.arweave.net/GFpvyorxWq23Ylyh7nHQyA2bgI6CeFqsJiuYf8DsqSY",
+  "name": "PSYCHEDELIC AFTERNOON IN THE BACKYARD",
 },
   "9": {
   "description": "", 
