@@ -48,12 +48,18 @@ module.exports = {
   "name": "PSYCHEDELIC AFTERNOON IN THE BACKYARD",
 },
   "9": {
-  "description": "", 
+  "description": "Edition 1/1. Series: ART IS NOT UNTOUCHABLE! This digital punk cubism was created from the logos of the three platforms that have already censored remixed arts: Super Rare, OpenSea and Rarible. I didn't ask permission! #DeArt #NeoExpressionism #GlitchArt #Collage #DigitalPunkCubism #Remix #WithoutPermission! #P2P #NFT", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "",
-  "name": "",
+  "image": "https://3e3ydppjdmhtouewbwfelf3rzobvrus7r6iltcubiafdjpf5trjq.arweave.net/2TeBvekbDzdQlg2KRZdxy4NY0l-PkLmKgUAKNLy9nFM",
+  "name": "UNAUTHORIZED ART",
 },
   "10": {
+  "description": "Edition: 1/1. Series: BRASIL. This remix was created from two photographs taken from the internet with the image of a “Caboclo de lança”, a folk figure from the multicultural manifestation known here in Brazil as “Maracatu”, present in the Brazilian state of Pernambuco. #DeArt #Psychedelia #Collage #Colors #Remix #Brasil #Maracatu #P2P #NFT", 
+  "external_url": "https://beta.cent.co/ninoarteiro", 
+  "image": "https://k736lbundnzz7afcuvuhk54y62vj5dpx7vkw2harbmrceindui3a.arweave.net/V_flho0bc5-AoqVodXeY9qqejff9VW0cEQsiIiGjojY",
+  "name": "CABOCLO DE LANÇA",
+},
+  "11": {
   "description": "", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
   "image": "",
@@ -68,13 +74,7 @@ module.exports = {
   "external_url": "https://beta.cent.co/ninoarteiro", 
   "image": "https://bc2lnwncekrw6erdzftyxzrkdbkn2wp7mz5cx4skzrupmie3zpha.arweave.net/CLS22aIio28SI8lni-YqGFTdWf9meivySsxo9iCby84",
   "name": "LES DEMOISELLES DU CYBERSPACE",
-},
-  "12": {
-  "description": "Edition 1/1. Series: ART IS NOT UNTOUCHABLE! This digital punk cubism was created from the logos of the three platforms that have already censored remixed arts: Super Rare, Open Sea and Rarible. I didn't ask permission! #Cryptoart #GlitchArt #NeoExpressionism #Collage #DigitalPunkCubism #Remix #WithoutPermission! #P2P #NFT", 
-  "external_url": "https://beta.cent.co/ninoarteiro", 
-  "image": "https://3e3ydppjdmhtouewbwfelf3rzobvrus7r6iltcubiafdjpf5trjq.arweave.net/2TeBvekbDzdQlg2KRZdxy4NY0l-PkLmKgUAKNLy9nFM",
-  "name": "UNAUTHORIZED ART",
-},
+
   "13": {
   "description": "Funk do Satoshi", 
   "external_url": "https://beta.cent.co/ninoarteiro", 
